@@ -1,5 +1,9 @@
 # Using ILP (Integer Linear Programming) to solve as combinatorial optimization problem
 
+<script type="text/javascript"
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.0/es5/tex-mml-chtml.js">
+</script>
+
 ## Defining the Problem
 
 The input for this problem will be a grid representing the farmland we need to distribute sprinklers on:
